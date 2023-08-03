@@ -1,0 +1,24 @@
+body{ 
+    font: 14px sans-serif; 
+    background-color: #f2f2f2; /* Set the background color of the body */
+    /* color: #fff;  */
+}
+.wrapper{ width: 350px; padding: 20px; }
+
+        
+#query_op {
+    border: 1px solid #000; /* Add a border to the div */
+    background-color: #000; /* Set the background color to black */
+    padding: 30px; /* Add padding to create space within the div */
+    margin-bottom: 20px; /* Add margin to create space between elements */
+    display: inline-block; 
+    /* Set the display property to inline-block */
+}
+
+#query_op .green {
+    color: green; /* Set the color of the green text */
+}
+
+#query_op .blue {
+    color: blue; /* Set the color of the blue text */
+}
